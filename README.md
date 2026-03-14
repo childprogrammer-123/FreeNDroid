@@ -25,9 +25,10 @@ Bootloader'dan kernel'e kadar her şey elle yazıldı.
 - UART üzerinden konsol input/output
 - QEMU'da çalışır
 
-### v0.2 (Yakında)
-- Backspace bug düzeltmesi
-- Ekstra özellikler
+### v0.2 (Yeni sürüm)
+- Bir-iki bug fixlendi
+- Özel bir uyarı geldi
+NOT: Yapımcı denemiştir ve GENEL olarak bir bug yaşanmamıştır.
 
 ## Nasıl Çalıştırılır?
 
